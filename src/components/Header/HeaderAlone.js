@@ -18,21 +18,6 @@ const Header = () =>  (
       </Link>
     </Div1>
     <Div2>
-      <li>
-        <Link href="/projects">
-          <NavLink>Articles</NavLink>
-        </Link>
-      </li>
-      <li>
-        <Link href="#tech">
-          <NavLink>Technologies</NavLink>
-        </Link>
-      </li>
-      <li>
-        <Link href="#about">
-          <NavLink>About me</NavLink>
-        </Link>
-      </li>
     </Div2>
       <Div3>
         <SocialIcons href="https://github.com/osstorres">
