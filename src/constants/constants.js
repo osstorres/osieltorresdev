@@ -8,8 +8,8 @@ export const projects = [
         "He trabajado en este articulo con las bases fundamentales para poder ir paso a paso adquiriendo esta filosofía que nos puede llevar a lograr nuestros objetivos en un equipo de tecnología.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: '/devops/',
-    visit: 'https://google.com',
+    source: 'https://www.linkedin.com/pulse/hacia-una-cultura-devops-osiel-jacobo-torres/',
+    visit: 'https://www.linkedin.com/pulse/hacia-una-cultura-devops-osiel-jacobo-torres/',
     id: 0,
   },
   {
@@ -17,8 +17,8 @@ export const projects = [
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: '/infraestructure',
-    visit: 'https://google.com',
+    source: 'https://www.linkedin.com/pulse/gesti%C3%B3n-de-infraestructura-osiel-jacobo-torres/',
+    visit: 'https://www.linkedin.com/pulse/gesti%C3%B3n-de-infraestructura-osiel-jacobo-torres/',
     id: 1,
   },
   {
@@ -26,8 +26,8 @@ export const projects = [
     description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
-    source: '/patterns',
-    visit: 'https://google.com',
+    source: 'https://www.linkedin.com/pulse/antipatrones-en-el-desarrollo-de-software-osiel-jacobo-torres/',
+    visit: 'https://www.linkedin.com/pulse/antipatrones-en-el-desarrollo-de-software-osiel-jacobo-torres/',
     id: 2,
   },
   {
@@ -35,8 +35,8 @@ export const projects = [
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
-    source: '/zen',
-    visit: 'https://google.com',
+    source: 'https://www.linkedin.com/pulse/zen-developer-almost-osiel-jacobo-torres/',
+    visit: 'https://www.linkedin.com/pulse/zen-developer-almost-osiel-jacobo-torres/',
     id: 3,
   },
 ];
