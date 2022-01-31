@@ -20,7 +20,7 @@ const Header = () =>  (
     <Div2>
     </Div2>
       <Div3>
-        <SocialIcons href="https://github.com/osstorres">
+        <SocialIcons href="">
           <AiFillGithub size="3rem" />
         </SocialIcons>
         <SocialIcons href="https://www.linkedin.com/in/osiel-jacobo-torres-202a2a174/">
